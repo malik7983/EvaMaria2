@@ -15,7 +15,7 @@
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/malik7983/EvaMaria">
+<a href="https://heroku.com/deploy?template=https://github.com/malik7983/EvaMaria2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 ## Features
